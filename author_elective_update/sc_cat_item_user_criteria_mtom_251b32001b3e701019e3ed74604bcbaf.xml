@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Request IT Help">f3343e081bfa701019e3ed74604bcb9a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 06:01:58</sys_created_on>
+        <sys_id>251b32001b3e701019e3ed74604bcbaf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request IT Help.Any User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_251b32001b3e701019e3ed74604bcbaf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-20 06:03:01</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cdc9d520db0fe010e26fd7c8f4961900</instance_id>
+        <instance_name>dev107032</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_251b32001b3e701019e3ed74604bcbaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request IT Help">f3343e081bfa701019e3ed74604bcb9a</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 06:01:58</sys_created_on><sys_id>251b32001b3e701019e3ed74604bcbaf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Request IT Help.Any User</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_251b32001b3e701019e3ed74604bcbaf</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-09-20 06:03:01</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1339283097</payload_hash>
+        <record_name>Request IT Help.Any User</record_name>
+        <reverted_from/>
+        <source>1e3d96041bba701019e3ed74604bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-20 06:03:01</sys_created_on>
+        <sys_id>f85b36001b3e701019e3ed74604bcbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c01ccf3d60000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-20 06:03:01</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>b05b3600be3e70105faababa2dddd6f6</update_guid>
+        <update_guid_history>b05b3600be3e70105faababa2dddd6f6:-1339283097,651b3200f03e7010fe13f244786ef1b2:-657678538</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request IT Help.">bd5c3a401b3e701019e3ed74604bcba4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-20 06:07:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>7eb28b7493f24c3c8d9464adc2aa24e9</sys_id>
+        <sys_metadata>251b32001b3e701019e3ed74604bcbaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request IT Help.</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">f3343e081bfa701019e3ed74604bcb9a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_251b32001b3e701019e3ed74604bcbaf</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_251b32001b3e701019e3ed74604bcbaf">f85b36001b3e701019e3ed74604bcbf6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-20 06:07:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
